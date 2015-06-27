@@ -1,0 +1,2 @@
+# happy
+rust mod example
