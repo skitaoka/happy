@@ -1,0 +1,4 @@
+[package]
+name = "happy"
+version = "0.1.0"
+authors = ["Shinya Kitaoka <skitaoka@gmail.com>"]
